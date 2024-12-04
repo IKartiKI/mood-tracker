@@ -22,7 +22,7 @@ cd mood-tracker-app
 ### Step 2: Backend Setup
 1. Navigate to the backend folder:
 ```
-cd backend
+cd mood-tracker-backend
 ```
 2. Install the required dependencies:
 
@@ -45,7 +45,7 @@ The backend should now be running at http://localhost:3001.
 1. Navigate to the frontend folder:
 
 ```
-cd ../frontend
+cd mood-tracker-frontend/src
 ```
 2. Install the required dependencies:
 
